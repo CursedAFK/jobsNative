@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "jobsNative",
-    "slug": "jobsNative"
+    "slug": "jobsNative",
+    "extra": {
+      "eas": {
+        "projectId": "21e31ea2-a65d-4385-b9b8-90c34bbef222"
+      }
+    },
+    "android": {
+      "package": "com.abdulrlass.jobsNative"
+    }
   }
 }
